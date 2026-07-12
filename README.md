@@ -30,22 +30,13 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashusingh41537-arch&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashusingh41537-arch&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashusingh41537-arch&theme=tokyonight" />
-</p>
-
 ---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 What I'm Interested In
 
@@ -57,15 +48,17 @@
 - Open Source
 - Problem Solving
 
+## 🌈 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar">
+</p>
+
 ## 💡 Quote
 
 > "Consistency beats talent when talent doesn't stay consistent."
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashusingh41537-arch&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ⭐ If you like my work, consider giving a star to my repositories!
 ---
-[![](https://komarev.com/ghpvc/?username=ashusingh41537-arch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
