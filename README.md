@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
-<h3 align="center">Aspiring Full Stack Developer | Backend Developer </h3>
-
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Akshay%20Pratap%20Singh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Web+Developer;Backend+Developer;Full+Stack+Learner;Always+Learning+New+Technologies;Open+to+Software+Developer+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 - 🎓 Graduate passionate about Software Development.
@@ -48,11 +47,6 @@
 - Open Source
 - Problem Solving
 
-## 🌈 3D Contribution Calendar
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar">
-</p>
 
 ## 💡 Quote
 
